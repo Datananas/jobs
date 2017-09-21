@@ -15,7 +15,7 @@ Pour en savoir plus sur Datananas, consultez ![README.md](README.md)
 - Awwwards votre homepage
 - Vous maitrisez parfaitement React ou Vue.js
 - Idéalement vous avez déjà travaillé dans une startup
-- >2 ans d'expériences comme développeur front JS
+- 2 ans d'expériences mini comme développeur front JS
 
 ## Les challenges qui vous attendent
 
