@@ -41,7 +41,7 @@ More : https://stackshare.io/datananas/datananas
 
 ## Ok, et l'ambiance ?
 
-Tournée de Délirium de jeudi, déjeuners mensuels avec toute l'équipe, batailles de nerfs, team building réguliers, ... et une équipe jeune et dynamique.
+Tournée de Délirium le jeudi, déjeuners mensuels avec toute l'équipe, batailles de nerfs, team building réguliers... et une équipe jeune et dynamique.
 
 Bref, on bosse beaucoup. Mais on s'amuse bien aussi (cf. photos)
 

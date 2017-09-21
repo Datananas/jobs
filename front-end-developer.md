@@ -20,7 +20,7 @@ Pour en savoir plus sur Datananas, consultez ![README.md](README.md)
 ## Les challenges qui vous attendent
 
 Vous aurez la responsabilité de développer le front en repartant de 0 et en utilisant React ou Vue.js.
-L'architecture et les choix technique devront permettre de pour pouvoir ajouter très rapidement de nouvelles fonctionnalités, et d'avoir un front modulable en fonction des droits des utilisateurs.
+L'architecture et les choix techniques devront permettre d'ajouter très rapidement de nouvelles fonctionnalités, et d'avoir un front modulable en fonction des droits des utilisateurs.
 
 Vous aurez la responsabilité de l'UX de l'application et travaillerez avec notre graphiste pour incorporer les feedbacks des clients.
 
