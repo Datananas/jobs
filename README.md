@@ -15,7 +15,9 @@ Vidéo d'une minute pour comprendre : https://www.youtube.com/watch?v=32y9oUF4pn
 Nous rencontrons de nombreux challenges techniques : réconciliation des e-mails pour savoir qui relancer et quand, machine learning pour comprendre les retours emails, webcrawling intelligent, etc...
 Mais c'est top secret, donc on pourra en discuter plus en détails en privé !
 
-La liste des jobs ouverts est disponible ci-dessus.
+La liste des jobs ouverts est disponible ci-dessous :
+
+- ![Front-End Developer](front-end-developer.md "Front-End Developer")
 
 ## Stack Technique
 
