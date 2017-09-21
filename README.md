@@ -11,6 +11,9 @@ Pour cela, on rajoute des automatisations intelligentes sur leurs échanges e-ma
 ## Quels challenges techniques ?
 
 Nous rencontrons de nombreux challenges techniques : réconciliation des e-mails pour savoir qui relancer et quand, machine learning pour comprendre les retours emails, webcrawling intelligent, etc...
+Mais c'est top secret, donc on pourra en discuter plus en détails en privé !
+
+La liste des jobs ouverts est disponible ci-dessus.
 
 ## Stack Technique
 
