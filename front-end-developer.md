@@ -5,6 +5,7 @@ TLDR: Développer un front incroyable est dans vos cordes ? > jobs@datananas.com
 
 ## Data-quoi ?
 
+Datananas est une startup de 18 personnes qui édite un logiciel qui veut aider les commerciaux à être plus efficaces dans leur prospection, grâce à des automatisations intelligentes.
 Pour en savoir plus sur Datananas, consultez ![README.md](README.md)
 
 ## Qui êtes-vous ?
@@ -14,7 +15,7 @@ Pour en savoir plus sur Datananas, consultez ![README.md](README.md)
 - Awwwards votre homepage
 - Vous maitrisez parfaitement React ou Vue.js
 - Idéalement vous avez déjà travaillé dans une startup
-- > 2 ans d'expériences comme développeur front JS
+- >2 ans d'expériences comme développeur front JS
 
 ## Les challenges qui vous attendent
 
