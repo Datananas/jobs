@@ -18,10 +18,11 @@ Mais c'est top secret, donc on pourra en discuter plus en détails en privé !
 La liste des jobs ouverts est disponible ci-dessous :
 
 - ![Front-End Developer](front-end-developer.md "Front-End Developer")
+- ![Back-End Developer](back-end-developer.md "Back-End Developer")
 
 ## Stack Technique
 
-- Angular 4
+- ~~Angular 4~~ changing...
 - Node.js (Express)
 - RabbitMQ
 - Redis
