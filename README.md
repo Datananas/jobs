@@ -22,7 +22,7 @@ La liste des jobs ouverts est disponible ci-dessous :
 
 ## Stack Technique
 
-- ~~Angular 4~~ changing...
+- ~~Angular 4~~ > Vue.js
 - Node.js (Express)
 - RabbitMQ
 - Redis
