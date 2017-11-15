@@ -52,6 +52,8 @@ jobs@datananas.com ou star ce repo et on vous recontacte (on trouvera un moyen)
 
 ## Photos ?
 
+https://www.welcometothejungle.co/companies/datananas
+
 #### Photo de groupe "officielle"
 
 ![Team du turfu](https://www.datananas.com/assets/images/team/team_datananas.png "Team du turfu")
