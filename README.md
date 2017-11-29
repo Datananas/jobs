@@ -58,6 +58,10 @@ https://www.welcometothejungle.co/companies/datananas
 
 ![Team du turfu](https://www.datananas.com/assets/images/team/team_datananas.png "Team du turfu")
 
+#### Soirée Karaoké (Novembre 2017)
+
+![Karaoké](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24273935_352259848573096_8217049517090930688_n.jpg "Karaoké")
+
 #### Escape Game (Septembre 2017)
 
 ![Escape Game](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690759_389031778166607_8486270724472832000_n.jpg "Escape Game")
