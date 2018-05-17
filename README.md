@@ -22,8 +22,8 @@ La liste des jobs ouverts est disponible ci-dessous :
 
 ## Stack Technique
 
-- ~~Angular 4~~ > Vue.js
-- Node.js (Express)
+- Vue.js
+- Node.js
 - RabbitMQ
 - Redis
 - MongoDB
@@ -36,9 +36,8 @@ More : https://stackshare.io/datananas/datananas
 
 - Scrum avec sprints d'une semaine
 - 1 jour / semaine en remote
-- Code reviews
+- Code reviews obligatoires + Linter/Tests/Swagger validation
 - Intégration et déploiement continu
-- Challenges avec rewards lors des mises en prod :)
 
 ## Ok, et l'ambiance ?
 
@@ -54,24 +53,20 @@ jobs@datananas.com ou star ce repo et on vous recontacte (on trouvera un moyen)
 
 https://www.welcometothejungle.co/companies/datananas
 
-#### Photo de groupe "officielle"
+#### :beer:	Beer time
 
-![Team du turfu](https://www.datananas.com/assets/images/team/team_datananas.png "Team du turfu")
+![Beer Time](https://assets.datananas.com/images/team_pictures/beer_time.jpg "Beer time")
 
-#### Soirée Karaoké (Novembre 2017)
+#### :musical_note: Karaoké
 
-![Karaoké](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24273935_352259848573096_8217049517090930688_n.jpg "Karaoké")
+![Karaoké](https://assets.datananas.com/images/team_pictures/beer_time.jpg "Karaoké")
 
-#### Escape Game (Septembre 2017)
+#### :mag: Escape Game
 
-![Escape Game](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690759_389031778166607_8486270724472832000_n.jpg "Escape Game")
+![Escape Game](https://assets.datananas.com/images/team_pictures/escape_game.jpg "Escape Game")
 
-#### Repas Mensuel au bureau (Septembre 2017)
+#### :dancer: Yoga
 
-![Repas mensuel](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688995_170278733538221_8841328120280645632_n.jpg "Repas mensuel")
-
-#### Séance Yoga lors d'un Team Building (Juin 2017)
-
-![Séance Yoga](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18879258_227960047697560_3616162742957768704_n.jpg "Séance Yoga")
+![Yoga](https://assets.datananas.com/images/team_pictures/yoga.jpg "Yoga")
 
 La suite : https://www.instagram.com/datananas_hq/
