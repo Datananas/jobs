@@ -59,7 +59,7 @@ https://www.welcometothejungle.co/companies/datananas
 
 #### :musical_note: Karaoké
 
-![Karaoké](https://assets.datananas.com/images/team_pictures/beer_time.jpg "Karaoké")
+![Karaoké](https://assets.datananas.com/images/team_pictures/karaoke.jpg "Karaoké")
 
 #### :mag: Escape Game
 
