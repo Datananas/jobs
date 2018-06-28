@@ -61,6 +61,10 @@ Voici quelques photos ci-dessous.
 
 Vous en trouverez d'autres sur [Welcome to the Jungle](https://www.welcometothejungle.co/companies/datananas) ou [Instagram](https://www.instagram.com/datananas_hq/)
 
+#### :mag: Escape Game 2
+
+![Escape Game](https://assets.datananas.com/images/team_pictures/escape_game_2.jpg "Escape Game 2")
+
 #### :beer:	Beer time
 
 ![Beer Time](https://assets.datananas.com/images/team_pictures/beer_time.jpg "Beer time")
