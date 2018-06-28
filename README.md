@@ -63,7 +63,7 @@ Vous en trouverez d'autres sur [Welcome to the Jungle](https://www.welcometothej
 
 #### :mag: Escape Game 2
 
-![Escape Game](https://assets.datananas.com/images/team_pictures/escape_game_2.jpg "Escape Game 2") 
+![Escape Game](https://assets.datananas.com/images/team_pictures/escape_game_v2.jpg "Escape Game 2") 
 
 #### :beer:	Beer time
 
