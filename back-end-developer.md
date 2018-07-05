@@ -9,14 +9,14 @@ Datananas est une startup de 18 personnes qui édite un logiciel qui veut aider 
 
 => [www.datananas.com](http://www.datananas.com)
 
-Pour en savoir plus sur Datananas, consultez ![README.md](README.md)
+Pour en savoir plus sur Datananas, consultez [README.md](README.md)
 
 ## :raising_hand: Qui êtes-vous ?
 
-- Vous connaissez parfaitement Javascript (ES6) & Node.js
-- Très bonne connaissance de Git et Github :octocat:
-- Vous avez au minimum 2 ans d'expérience comme développeur back ou full stack
-- Une précédente experience dans une startup est un plus
+💪 Vous connaissez parfaitement Javascript (ES6) && Node.js
+😎 Très bonne connaissance de Git (et Github) et MongoDB
+🛌 Vous ne pouvez pas dormir tranquille sans écrire des tests, de la documentation, et faire des reviews
+🚜 Une connaissance de (ESlint || RabbitMQ || Swagger || Mocha || Joi || Redis || ElasticSearch) est un plus
 
 ## :pager: Stack tech
 
@@ -34,9 +34,12 @@ Nous utilisons :
 
 ## :construction: Les challenges qui vous attendent
 
-Vous aurez la responsabilité du bon fonctionnement de l'ensemble de notre stack côté back : Workers, API, etc...
+Vous aurez la responsabilité du bon fonctionnement du back-end qui regroupe entre autres:
 
-Vous serez responsable des choix d'architecture côté back sur les nouveaux développements, et managerez en direct notre équipe de développeurs back.
+- Notre API en Node.js (Express)
+- Nos workers (microservices en Node.js)
+
+Vous serez responsable du développement de nouvelles fonctionnalités back, tout en veillant à respecter un process strict de qualité (tests unitaires, ESlint, code reviews, ...)
 
 Beaucoup d'autres challenges vous attendent... dont nous pourrons discuter en privé :)
 
