@@ -13,10 +13,10 @@ Pour en savoir plus sur Datananas, consultez [README.md](README.md)
 
 ## :raising_hand: Qui êtes-vous ?
 
-💪 Vous connaissez parfaitement Javascript (ES6) && Node.js
-😎 Très bonne connaissance de Git (et Github) et MongoDB
-🛌 Vous ne pouvez pas dormir tranquille sans écrire des tests, de la documentation, et faire des reviews
-🚜 Une connaissance de (ESlint || RabbitMQ || Swagger || Mocha || Joi || Redis || ElasticSearch) est un plus
+- 💪 Vous connaissez parfaitement Javascript (ES6) && Node.js
+- 😎 Très bonne connaissance de Git (et Github) et MongoDB
+- 🛌 Vous ne pouvez pas dormir tranquille sans écrire des tests, de la documentation, et faire des reviews
+ -🚜 Une connaissance de (ESlint || RabbitMQ || Swagger || Mocha || Joi || Redis || ElasticSearch) est un plus
 
 ## :pager: Stack tech
 
