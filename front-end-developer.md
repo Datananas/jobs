@@ -26,6 +26,7 @@ Nous utilisons :
 - [Vue.js](https://vuejs.org/)
 - [Vue-x](https://vuex.vuejs.org/fr/)
 - [Vue-test-utils](https://github.com/vuejs/vue-test-utils/) avec [Jest](https://github.com/facebook/jest)
+- [Cypress](https://www.cypress.io/)
 - [Element](http://element.eleme.io/#/en-US/component)
 - [ESlint](https://github.com/eslint/eslint)
 - [Webpack](https://github.com/webpack)
