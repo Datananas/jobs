@@ -21,12 +21,13 @@ Pour en savoir plus sur Datananas, consultez [README.md](README.md)
 ## :pager: Stack tech
 
 Nous utilisons :
-- [Node.js](https://nodejs.org/en/) (of course)
+- [Node.js](https://nodejs.org/en/) 10
 - [ESlint](https://github.com/eslint/eslint)
 - [MongoDB](https://www.mongodb.com/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Swagger](https://swagger.io/)
 - [Mocha](https://mochajs.org/)
+- [Chai](https://www.chaijs.com/)
 - [Joi](https://github.com/hapijs/joi)
 - [Redis](https://redis.io/)
 - [ElasticSearch](https://www.elastic.co/fr/)
@@ -36,7 +37,7 @@ Nous utilisons :
 
 Vous aurez la responsabilité du bon fonctionnement du back-end qui regroupe entre autres:
 
-- Notre API en Node.js (Express)
+- Notre API en Node.js (Express) & Python (IA)
 - Nos workers (microservices en Node.js)
 
 Vous serez responsable du développement de nouvelles fonctionnalités back, tout en veillant à respecter un process strict de qualité (tests unitaires, ESlint, code reviews, ...)
